@@ -34,17 +34,17 @@ const NavbarPagina = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">
+              <a className="nav-link active" aria-current="page" href="#/servicios">
                 Exámenes
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <span className="border">
                 <a href="#/register" className="btn btn-info" role="button">
                   Registro
                 </a>
               </span>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a href="#/login" className="btn btn-primary" role="button">
                 Iniciar Sesión

@@ -10,10 +10,10 @@ const Landing = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        
+      
         <div className="container-fluid fondo tamadiv">
           <div className="boton">
-            <a href="">Explorar</a>{" "}
+            <a href="#/servicios">Explorar</a>{" "}
           </div>
         </div>
         <div className="col-md-4"></div>

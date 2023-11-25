@@ -8,6 +8,7 @@ export const Layout = ({children}) => {
         <NavbarPagina/>
         {children}
         </main>
+        
   )
 }
 
